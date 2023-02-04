@@ -39,5 +39,12 @@ pip install beautifulsoup4 pandas matplotlib seaborn
 
     python main.py
 
-# Authors
+# Resources
+
+You can use the give csv file which contains the data of all players and you can also use the .py file for data filttring and analysis for your reference.
+
+
+# Guidance
+
+Special thanks to simplilearn which guides me in this project.
 
